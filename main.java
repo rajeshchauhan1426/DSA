@@ -13,7 +13,8 @@ public class main {
         //System.out.println(stack.empty());
 
         //stack.pop();
-        System.out.println(stack.peek());
+        //System.out.println(stack.peek());
+        //System.out.println(stack.search("college"));
         System.out.println(stack);
     }
      
