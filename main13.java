@@ -27,7 +27,7 @@ public class main13{
 		int i = 0; //left array
 		int j = 0; //right array
 		
-		for(; i < length; i++) {
+		for(i=0; i < length; i++) {
 			if(i < middle) {
 				leftArray[i] = array[i];
 			}
